@@ -60,7 +60,7 @@ This lab simulates common security misconfigurations in an AWS cloud environment
 > ✅ **Screenshot:** ScoutSuite report flagging IAM over-privilege and S3 misconfigurations
 > ![Screenshot showing user setup](./screenshots/report-3.png)
 
-> ![Screenshot showing user setup](./screenshots/s3-report.png)
+> ![Screenshot showing user setup](./screenshots/s3bucket-report.png)
 
 ---
 
