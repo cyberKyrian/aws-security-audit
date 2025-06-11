@@ -34,8 +34,8 @@ This lab simulates common security misconfigurations in an AWS cloud environment
 
 ### 🔹 Simulated Insecure Configurations:
 
-* Publicly accessible S3 bucket (`kyrian-lab-bucket`)
-* IAM user (`labuser`) with `AdministratorAccess` policy
+* Publicly accessible S3 bucket (`cyberkyrian-labs`)
+* IAM user (`josie_cyberkyrian`) with `AdministratorAccess` policy
 * EC2 instance with SSH (port 22) open to the world (`0.0.0.0/0`)
 
 > ✅ **Screenshot:** S3 bucket with “Block all public access” disabled
