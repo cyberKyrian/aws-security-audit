@@ -1,8 +1,10 @@
 # AWS Cloud Security Misconfiguration Audit Lab
 
 ### Author: Kyrian Onyeagusi
+🔗 [LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi/) | 📧 [Email](mailto:kyrianoc18@gmail.com)
 
 ### Focus: Real-world AWS misconfigurations and secure cloud practices
+
 
 ### Environment: AWS (Remote Lab)
 
@@ -24,15 +26,15 @@ This lab simulates common security misconfigurations in an AWS cloud environment
 
 ---
 
-## ☁️ Environment Setup
+## Environment Setup
 
-### 🔹 AWS Services Used:
+### AWS Services Used:
 
 * Amazon S3
 * IAM (Identity and Access Management)
 * Amazon EC2
 
-### 🔹 Simulated Insecure Configurations:
+### Simulated Insecure Configurations:
 
 * Publicly accessible S3 bucket (`cyberkyrian-labs`)
 * IAM user (`josie_cyberkyrian`) with `AdministratorAccess` policy
@@ -113,3 +115,9 @@ This lab simulates common security misconfigurations in an AWS cloud environment
 ## 📌 Conclusion
 
 This lab demonstrates how misconfigured AWS services can expose organizations to critical risks. By simulating real-world issues and walking through the audit and remediation steps, I’ve shown my ability to not only detect but also secure cloud assets according to best practices.
+
+
+## 🔗 Connect
+
+**Kyrian Onyeagusi**
+🔗 [LinkedIn](https://www.linkedin.com/in/kyrian-onyeagusi/) | 📧 [Email](mailto:kyrianoc18@gmail.com)
